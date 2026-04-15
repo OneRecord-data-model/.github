@@ -1,10 +1,10 @@
-# OneRecord — A Unified Semantic Data Model for Procurement
+# **$\color{blue}{\textsf{OneRecord — A Unified Semantic Data Model for Procurement}}$**
 
 Enabling consistent, reusable data mapping between enterprise systems and exchange standards across the construction supply chain.
 
 ---
 
-## The Problem
+## **$\color{blue}{\textsf{The Problem}}$**
 
 Construction procurement relies on multiple document types — catalogues, orders, despatch advices, invoices — each exchanged between different parties using different systems. Every company maps its ERP data to these standards independently, creating dozens of point-to-point integrations that are expensive, error-prone, and difficult to maintain.
 
@@ -12,7 +12,7 @@ The standards themselves (UBL/Peppol, EDIFACT) define document *structure*, but 
 
 ---
 
-## The Idea
+## **$\color{blue}{\textsf{The Idea}}$**
 
 OneRecord is a single semantic data model that merges all procurement-related Peppol documents into one unified structure. Instead of treating each document as a separate mapping problem, OneRecord assigns every data element a **unique, human-readable example value** that carries the same meaning across all documents and systems.
 
@@ -20,7 +20,7 @@ OneRecord is a single semantic data model that merges all procurement-related Pe
 
 ---
 
-## How It Works
+## **$\color{blue}{\textsf{How It Works}}$**
 
 - **Populate.** A company fills the OneRecord model with its own data, using unique example values as anchors.
 - **Generate.** Standard documents (Order, Invoice, etc.) are produced from the same model with the same values.
@@ -31,7 +31,7 @@ Because the example values are human-readable, they are also machine-readable. T
 
 ---
 
-## What OneRecord Covers
+## **$\color{blue}{\textsf{What OneRecord Covers}}$**
 
 | Area | Content | Status |
 |------|---------|--------|
@@ -44,13 +44,13 @@ Because the example values are human-readable, they are also machine-readable. T
 
 ---
 
-## What OneRecord Is Not
+## **$\color{blue}{\textsf{What OneRecord Is Not}}$**
 
 OneRecord is not a new standard. It does not modify, extend, or replace Peppol BIS, UBL, EDIFACT, or any specification maintained by OpenPeppol, CEN, ISO, or UNECE. All documents generated using OneRecord remain fully BIS-compliant, with no additional mandatory elements or schema extensions. OneRecord is an **informative semantic reference layer** that sits alongside existing standards to improve consistency and reduce integration effort.
 
 ---
 
-## Why This Matters for Construction
+## **$\color{blue}{\textsf{Why This Matters for Construction}}$**
 
 The construction industry operates across long supply chains with many specialised actors — architects, general contractors, element manufacturers, component suppliers, carriers. Each handoff (design to tendering, ordering to delivery, delivery to invoicing) involves data that originates in one system and must be understood by another.
 
@@ -58,7 +58,7 @@ OneRecord traces data from its origin through every reuse point. An element desi
 
 ---
 
-## Getting Involved
+## **$\color{blue}{\textsf{Getting Involved}}$**
 
 OneRecord v0.9 is published as a reference implementation governed by the BETK working group in Finland. Participation is open. Joint development has been expanded to the BEAST working group in Sweden, and several academic research projects have joined the work.
 
@@ -68,7 +68,7 @@ Findings, tools, and results are available openly on GitHub. Companies can adopt
 
 ---
 
-## Contributors
+## **$\color{blue}{\textsf{Contributors}}$**
 
 **OneRecord v0.9**
 
