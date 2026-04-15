@@ -70,7 +70,7 @@ Findings, tools, and results are available openly on GitHub. Companies can adopt
 
 ## Contributors
 
-**OneRecord v0.9** — BETK Working Group (Finland) & BEAST Working Group (Sweden)
+**OneRecord v0.9**
 
 **Lead:** Kari Korpela
 
