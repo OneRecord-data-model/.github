@@ -18,6 +18,8 @@ OneRecord is a single semantic data model that merges all procurement-related Pe
 
 > **Core principle:** One value = one meaning = reused everywhere. When a company populates its own ERP system document data with OneRecord data, AI-assisted comparing reveals exactly which ERP document data elements correspond to which standard document elements — automatically forming a mapping between ERP and standard.
 
+<img width="1071" height="611" alt="Nimetön kaavio drawio" src="https://github.com/user-attachments/assets/f55af091-2c66-42d6-b886-24bfaeb83114" />
+
 ---
 
 ## **$\color{blue}{\textsf{How It Works}}$**
